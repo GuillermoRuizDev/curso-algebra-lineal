@@ -1,5 +1,5 @@
-# [Curso completo de álgebra lineal de cero a experto](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
+
+### Bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
 
 ### ¿Qué vas a encontrar?
 
