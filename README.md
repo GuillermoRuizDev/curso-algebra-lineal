@@ -1,13 +1,7 @@
 # [Curso completo de álgebra lineal de cero a experto](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
 ### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
 
-#### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-
-#### Puedes ver todo el material del curso en [nuestra página de Github](https://joanby.github.io/curso-algebra-lineal/index.html)
-
-### ¿Qué vas a aprender?
-
-Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
+### ¿Qué vas a encontrar?
 
 * Logística e instalación de R y RStudio, Anaconda Navigator para Python y Octave GNU para ingeniería.
 * Cómo usar R, Python y Octave como si fuese una calculadora científica para complementar tu estudio día a día
@@ -22,9 +16,7 @@ Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos
 * Optimización lineal con el método del Simplex.
 * Repositorio Github con todo el material del curso para disponer de los mismos scripts que usamos en clase desde el minuto inicial.
 
-Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
-
-### Temario del curso
+### Temario 
 
 * Tema 0 - Los preliminares del curso
 * Tema 1 - Matrices
@@ -39,8 +31,6 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 * Tema 10 - Cadenas de Markov
 
 
-### El itinerario definitivo para convertirte en un experto en ML e IA
 
-Complementa este curso con el resto del itinerario específico que tienes disponible en la web de [Frogames](https://frogames.es/rutas-de-aprendizaje)
 
 
